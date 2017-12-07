@@ -23,7 +23,7 @@ norDoublemksigk_logic(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default 
 ```
 norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2)
 ```
-返回值是z，对应有一个logic函数,操作说明同上(因为作者的懒惰不想做了，所以接下来所有a都是0.05，无论怎么改都一样。。。)
+返回值是z，对应有一个logic函数,操作说明同上(因为作者的懒惰不想做了，所以接下来所有a都是0.05，无论怎么改都一样。。。对了左右区间也选不了，不过未来的更新会加入的，请大家放心)
 ```
 norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
 ```
