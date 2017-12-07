@@ -1,0 +1,10 @@
+Package: aaaaahomework
+Type: Package
+Title: xintonghomework
+Version: 0.1.0
+Author: Notplayingcute
+Maintainer: Notplayingcute <1613104@mail.nankai.edu.cn>
+Description: I hate xintonghomework,so i invent this.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
