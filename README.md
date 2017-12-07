@@ -32,6 +32,6 @@ norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = F
 同理还有一个非齐次的
 
 ```
-norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2)
-norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
+norDoubleimkfqsigun(x1,x2,sigma1,sigma2,n1,n2)
+norDoubleimkfqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
 ```
