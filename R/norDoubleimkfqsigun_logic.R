@@ -9,7 +9,7 @@ norDoubleimkfqsigun_logic <- function(x,y,s1,s2,n1,n2,a=0.05,right = FALSE, left
   if(df>30)
     df <- 31
   tz[df]
-  if(t>Tz[df]||t < -Tz[df])
+  if(t>tz[df]||t < -tz[df])
   {return(F)}
   else
   {return(T)}
