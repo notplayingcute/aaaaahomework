@@ -35,3 +35,10 @@ norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = F
 norDoubleimkfqsigun(x1,x2,sigma1,sigma2,n1,n2)
 norDoubleimkfqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
 ```
+
+
+相关系数已知
+```
+norDoublermksigun_logic(x1,x2,sigma1,sigma2,n,r,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
+norDoublermksigun(x1,x2,sigma1,sigma2,n,r)
+```
