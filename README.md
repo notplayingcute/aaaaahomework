@@ -1,6 +1,6 @@
 # aaaaahomework
 嗯，这个package就是aaaaahomework
-作者被心统作业折磨的够呛。。。所以就简单地编出了这个包
+因为作者被心统作业折磨的够呛。。。所以就简单地编出了这个包
 ```
 install_github("notplayingcute/aaaaahomework")
 ```
