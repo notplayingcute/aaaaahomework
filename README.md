@@ -30,3 +30,8 @@ norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = F
 再说个P238的例题直接写数了x1=80,n1=60,s1=18,x2=73,n2=52,s2=15;书上答案t=2.19
 
 同理还有一个非齐次的
+
+```
+norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2)
+norDoubleimkqsigun(x1,x2,sigma1,sigma2,n1,n2,a(default = 0.05),right(default = FALSE),left(Default = FALSE))
+```
